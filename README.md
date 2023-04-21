@@ -9,7 +9,7 @@ In order to use this app, the client must run `npm i` to install a package.json,
 
 ## Preview:
 
-<img src="Social Network API.png">
+<img src="Social Network API Screenshot.png">
 
 ## Demo: 
 
