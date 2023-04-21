@@ -13,4 +13,6 @@ In order to use this app, the client must run `npm i` to install a package.json,
 
 ## Demo: 
 
+The following is a video link with a demo of the app's functionality: 
+
 https://drive.google.com/file/d/1cMXIjEDLq7lfV_5jmaXru7JLIVW_GSLZ/view
